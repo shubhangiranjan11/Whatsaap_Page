@@ -1,0 +1,124 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    background-color: #00947f;
+    justify-content: center;
+    height: 11%;
+    /* flex-grow: 1px; */
+}
+.img{
+    width: 180px;
+    height: 50px;
+    margin-right: 10%;
+}
+.what{
+    color: white;
+    font-style: sans-serif;
+    margin-right: 90px;
+}
+.box{
+    margin: 10px;
+    color: white;
+    font-weight: 400;
+    margin-right: 30px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.sec_container{
+    margin-left:30% ;
+    margin-top: 8%;
+}
+.first-para{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 400;
+}
+.sec-para{
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 33px;
+    font-weight: 400;
+}
+.third-para{
+    font-weight: 500;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.fourth-para{
+    color: grey;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.img2{
+    display: flex;
+    width: 350px;
+    height: 600px;
+    margin-left: 35%;
+    margin-top: -38%;
+}
+.and{
+    color:#30c4b5;
+    margin-left: 3%;
+    font-weight: 600;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+.third-container{
+    margin-top: 8%;
+    display: flex;
+    height: 80%;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.butt{
+    margin-top: 3%;
+    margin-left: 44%;
+    border-radius: 180px;
+    font-size: 120%;
+    background-color:white;
+    border-color: #22e0c9;
+    color: #10b2b7;
+    border-width: 2.5px;
+    height: 60px;
+    width: 250;
+}
+.footer{
+    display: flex;
+    margin-top: 6%;
+    background-color: #243243;
+}
+.con{
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 25%;
+}
+.con2{
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 10%;
+}
+.con3{
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5%;
+}
+.con4{
+    color: white;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 5%;
+}
+.last{
+    display: flex;
+    color: white;
+    background-color: #1c1e21;
+}
+.h{
+    margin-left: 20%;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.p{
+    margin-left: 50%;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+
